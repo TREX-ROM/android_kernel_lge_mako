@@ -21,7 +21,7 @@ extern void update_mic_gain(int gain_boost);
 /*
  * Volume boost value
  */
-int boost = 0;
+int boost = 6;
 int boost_limit = 20;
 int boost_limit_min = -20;
 
